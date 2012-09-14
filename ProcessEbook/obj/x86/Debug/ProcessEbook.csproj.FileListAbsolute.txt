@@ -21,3 +21,5 @@ E:\Coding\ProcessEbook\ProcessEbook\obj\x86\Debug\ResGen.read.1.tlog
 E:\Coding\ProcessEbook\ProcessEbook\obj\x86\Debug\ResGen.write.1.tlog
 E:\Coding\ProcessEbook\ProcessEbook\obj\x86\Debug\ProcessEbook.exe
 E:\Coding\ProcessEbook\ProcessEbook\obj\x86\Debug\ProcessEbook.pdb
+D:\Programming\ProcessEbook\ProcessEbook\obj\x86\Debug\ProcessEbook.exe
+D:\Programming\ProcessEbook\ProcessEbook\obj\x86\Debug\ProcessEbook.pdb
